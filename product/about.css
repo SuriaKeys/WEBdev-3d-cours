@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: #ffffff;
+    color: #ae9cff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ae9cff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 36px;
+}
+
+.about-section, .team-section {
+    margin: 50px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    font-size: 28px;
+    color: #ae9cff;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333333;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ae9cff;
+    color: #ffffff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
